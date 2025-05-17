@@ -11,6 +11,8 @@ pod 'SentencepieceSwift'
 ## Usage
 
 ```swift
+import Sentencepiece
+
 let tokenizer = try SentencepieceTokenizer(modelPath: "model.model")
 let ids = try tokenizer.encode("Hello, world")
 let text = try tokenizer.decode(ids)
