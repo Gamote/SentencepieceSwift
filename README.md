@@ -1,6 +1,6 @@
 # SentencepieceSwift
 
-A Swift wrapper for Google's [SentencePiece](https://github.com/google/sentencepiece) tokenizer. Tokenize, encode, and decode text from SentencePiece models in native iOS/macOS apps.
+A Swift wrapper for Google's [SentencePiece](https://github.com/google/sentencepiece) tokenizer. Tokenize, encode, and decode text from SentencePiece models in native iOS apps.
 
 ## Installation
 
